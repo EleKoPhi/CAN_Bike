@@ -1,0 +1,2 @@
+class canParser(self):
+    None
